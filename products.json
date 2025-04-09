@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Bread",
+        "price": 10,
+        "count": 10
+    },
+    {
+        "name": "Egg",
+        "price": 1,
+        "count": 5
+    }
+]
