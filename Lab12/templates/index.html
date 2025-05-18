@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Калькулятор ИМТ</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='reset.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='font.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='variables.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+<body>
+    <h1 class="main-title">КАЛЬКУЛЯТОР ИМТ</h1>
+    <div class="container">
+        <div class="window">
+            <div class="window-header">
+                <div class="window-header-content">
+                    <img src="{{ url_for('static', filename='img/notepad.png') }}" alt="Calculator" class="header-icon">
+                    <h2>Калькулятор ИМТ</h2>
+                </div>
+                <button class="close-button">
+                    <img src="{{ url_for('static', filename='img/close_button.png') }}" alt="Закрыть">
+                </button>
+            </div>
+            <div class="window-content">
+                <form method="POST" class="calculator-form">
+                    <div class="form-group">
+                        <label for="weight">Вес (кг):</label>
+                        <div class="input-wrapper">
+                            <input type="number" id="weight" name="weight" step="0.1" min="30" max="300" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="height">Рост (см):</label>
+                        <div class="input-wrapper">
+                            <input type="number" id="height" name="height" step="0.1" min="100" max="250" required>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="main-button">РАССЧИТАТЬ ИМТ</button>
+                </form>
+                
+                {% if imt %}
+                <div class="result">
+                    <h2>Результат:</h2>
+                    <p>Ваш ИМТ: <span class="result-value">{{ imt }}</span></p>
+                    <p class="result-category">{{ category }}</p>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="window notepad">
+            <div class="window-header">
+                <div class="window-header-content">
+                    <img src="{{ url_for('static', filename='img/info.png') }}" alt="Info" class="header-icon">
+                    <h2>Что такое ИМТ?</h2>
+                </div>
+                <button class="close-button">
+                    <img src="{{ url_for('static', filename='img/close_button.png') }}" alt="Закрыть">
+                </button>
+            </div>
+            <div class="window-content about-content">
+                <p>Индекс массы тела (ИМТ) — величина, позволяющая оценить степень соответствия массы человека и его роста и определить, является ли масса недостаточной, нормальной или избыточной.</p>
+                <p>Формула расчета: ИМТ = вес (кг) / рост^2 (м)</p>
+                <p>Категории ИМТ:</p>
+                <ul>
+                    <li>Менее 16 — Выраженный дефицит массы тела</li>
+                    <li>16-18.5 — Недостаточная масса тела</li>
+                    <li>18.5-25 — Нормальная масса тела</li>
+                    <li>25-30 — Избыточная масса тела</li>
+                    <li>30-35 — Ожирение первой степени</li>
+                    <li>35-40 — Ожирение второй степени</li>
+                    <li>Более 40 — Ожирение третьей степени</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

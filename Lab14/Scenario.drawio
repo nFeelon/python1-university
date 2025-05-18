@@ -1,0 +1,1089 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
+  <diagram name="Страница — 1" id="0AblKKPIaHRUzFvXilBv">
+    <mxGraphModel dx="741" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-2" target="EiM28c7OeE1uA6Y3Squ6-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-2" value="Старт" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="230" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-8" target="EiM28c7OeE1uA6Y3Squ6-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-8" value="Фон: универ экст." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="110" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Очередное утро очередного дня&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-8" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Передо мной мой университет. Туда, куда я так стремился поступить в после учебы в школе.&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-8" vertex="1">
+          <mxGeometry y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Сейчас я почти закончил 3 курс..&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-8" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-13" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Большую часть учебы я не понимал, зачем я здесь и что я вообще хочу изучать дальше&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-8" vertex="1">
+          <mxGeometry y="150" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Благо сейчас я изучаю то, что более или менее пригодится мне дальше&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-8" vertex="1">
+          <mxGeometry y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-15" target="EiM28c7OeE1uA6Y3Squ6-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-15" value="Фон: универ инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="390" width="140" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-16" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Сколько бы я не называл себя интровертом, без общения я не остался&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-15" vertex="1">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;*Появляются Матвей, Женя, Даник*&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-15" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-18" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В лотерее друзей мне повезло, достались не самые тупые, но и не самые смешные клоуны. Вот, кстати, и они&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-15" vertex="1">
+          <mxGeometry y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-19" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Даник: О, Некит!&lt;br&gt;Женя: Наконец-то явился&lt;br&gt;Матвей: Сделаешь мне эчпочмак?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-15" vertex="1">
+          <mxGeometry y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-20" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Что у нас щас по парам? Снова какая-нибудь лекция с тихим часом?&lt;br&gt;Женя: Ты что, у нас питон у Янины Алексеевны!&lt;br&gt;Никита: Аааа, за три километра снова идти..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-15" vertex="1">
+          <mxGeometry y="240" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-22" value="Фон: универ коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="390" width="140" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-23" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В коридорах как обычно была толкучка.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-22" vertex="1">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-24" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Среди всего потока людей, мне каждый раз попадается один и тот же преподаватель, лекции которого у нас закончились ещё пару семестров назад. Сбой матрицы&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-22" vertex="1">
+          <mxGeometry y="70" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-25" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;У нашего кабинета как всегда многолюдно.. Естественно, ведь автомат у Янины Алексеевны хотят получить все, даже отчислившиеся.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-22" vertex="1">
+          <mxGeometry y="170" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-26" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Все ведут беседы со всеми, все-таки после выходных у каждого есть, что обсудить.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-22" vertex="1">
+          <mxGeometry y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-27" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Вот и пришла преподавательница, по её виду было понятно, что заслужить особое внимание от неё на лекции будет легко, просто отвернув свой взгляд от слайдов на экране.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-22" vertex="1">
+          <mxGeometry y="310" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-29" target="EiM28c7OeE1uA6Y3Squ6-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-29" value="Фон: кабинет инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="390" width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-30" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;На удивление, лекция прошла незаметно. Возможно, именно настроение Янины Алексеевны не позволило мне окончательно уйти в мир грёз и фантазий.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-29" vertex="1">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-31" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Из рассказанных сегодня материалов, меня привлекла статья одного старого профессора, на которую ссылались слайды лекций&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-29" vertex="1">
+          <mxGeometry y="110" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-32" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я не помню, к чему была эта ссылка. Ибо статья совсем не подходила под тему презентации&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-29" vertex="1">
+          <mxGeometry y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-33" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Статья называется &quot;Новые модули Python: Нуль 0&quot;. Имя автора - Хроми Пайтон&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-29" vertex="1">
+          <mxGeometry y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-34" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Почему же этот модуль имеет такое название? Хотя, зная умственные способности питонистов, это может быть очередной смешной шуткой&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-29" vertex="1">
+          <mxGeometry y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-25" target="EiM28c7OeE1uA6Y3Squ6-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-36" target="EiM28c7OeE1uA6Y3Squ6-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="830" />
+              <mxPoint x="270" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-36" value="Фон: универ коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="390" width="140" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-37" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Парни, на лекции вас не смутила статья про новый модуль?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-36" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-38" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Даник: Не заметил, очередная фигня какая-та&lt;br&gt;Женя: Нет, я слышал о нём, но практической реализации ни на каком сайте не нашёл&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Нигде нет? А зачем тогда статью о нем писать?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Женя: Спросим на следующей лекции&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Матвей: Пофиг, пошлите хавать&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-36" vertex="1">
+          <mxGeometry y="80" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-39" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Большой перерыв - это прекрасное время, чтобы вкусить еды из единственной открытой столовой на все тысячи и тысячи голодных студентов..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-36" vertex="1">
+          <mxGeometry y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-43" target="EiM28c7OeE1uA6Y3Squ6-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-43" value="Фон: комната инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="850" width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-44" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;За окном уже стемнело. Пары закончились несколько часов назад.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-43" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-45" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Не удивительно, что моими соседями являются все те же персоны, с которыми я целый день общался в университете.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-43" vertex="1">
+          <mxGeometry y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-46" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Их образ жизни уникален. Ночью они делают лабы, а днём, в единственное светлое время суток, они играют в Brawl Stars, периодически выкрикивая разные то ли пошлые, то ли глупые фразы насчёт своей игры&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-43" vertex="1">
+          <mxGeometry y="140" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-47" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Только Матвей как обычно общается со своими друзьями в дискорде. С его шуток падала вся энергосеть в общежитии&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-43" vertex="1">
+          <mxGeometry y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-48" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Поиграв в несколько одиночных игр, я наконец-то принялся делать свои любимые лабораторные работы.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-43" vertex="1">
+          <mxGeometry y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-51" target="EiM28c7OeE1uA6Y3Squ6-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-51" value="Фон: экран ноутбука" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="850" width="140" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-52" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Лабораторные работы по Python уже давно закрепились как часть моей еженедельной рутины.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-51" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-53" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Конечно, я бы мог предложить своему мозгу сделать выбор, с какого предмета мне начать моё приключение, но..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-51" vertex="1">
+          <mxGeometry y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-54" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я очень хотел узнать, что делает тот самый новый модуль. Правда, название его я забыл&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-51" vertex="1">
+          <mxGeometry y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-55" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: &quot;Модуль 0.. Ноль-Ноль...&quot;&lt;br&gt;Никита: А, Нуль 0!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-51" vertex="1">
+          <mxGeometry y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-56" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Женя говорил, что практической реализации кода найти в интернете не реально. Может в статье есть какая-та информация?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-51" vertex="1">
+          <mxGeometry y="230" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-58" target="EiM28c7OeE1uA6Y3Squ6-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-58" value="Фон: экран со статьей" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="850" width="140" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-59" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Сайт со статьей выглядел очень странно. Вместо стандартной и ожидаемой современной верстки, меня встретил старый и будто еле живой сайт эпохи 2000-ых годов.&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-58" vertex="1">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-60" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Видно, первокурсники постарались.. Откуда мне стоит начать?&lt;br&gt;ВЫБОР:&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-58" vertex="1">
+          <mxGeometry y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-61" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1. С хедера&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-58" vertex="1">
+          <mxGeometry y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-65" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2. С body&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-58" vertex="1">
+          <mxGeometry y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-66" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;3. С футера&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-58" vertex="1">
+          <mxGeometry y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-67" value="Фон: экран со статьей" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="850" width="140" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-68" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Сайт со статьей выглядел очень странно. Вместо стандартной и ожидаемой современной верстки, меня встретил старый и будто еле живой сайт эпохи 2000-ых годов.&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-67" vertex="1">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-69" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Видно, первокурсники постарались.. Откуда мне стоит начать?&lt;br&gt;ВЫБОР 1:&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-67" vertex="1">
+          <mxGeometry y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-70" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1. С хедера&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-67" vertex="1">
+          <mxGeometry y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-71" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2. С body&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-67" vertex="1">
+          <mxGeometry y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-72" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;3. С футера&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-67" vertex="1">
+          <mxGeometry y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-74" target="EiM28c7OeE1uA6Y3Squ6-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-74" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Естественно и логично было начать просмотр страницы с хедера. Помню, когда-то именно Матвей любил первым делом верстать хедер.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-75" target="EiM28c7OeE1uA6Y3Squ6-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-75" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Самое главное всегда в главной части страницы.&amp;nbsp;&lt;br&gt;Женя всегда начинал верстку именно отсюда.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-76" target="EiM28c7OeE1uA6Y3Squ6-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-76" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Помню, как Даник начинал верстку с футера..&lt;br&gt;Что я здесь забыл? Кроме авторских прав и почты здесь ничего нет. Хотя одна гиперссылка привлекла моё внимание.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1160" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-70" target="EiM28c7OeE1uA6Y3Squ6-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1040" />
+              <mxPoint x="930" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-71" target="EiM28c7OeE1uA6Y3Squ6-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-72" target="EiM28c7OeE1uA6Y3Squ6-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1120" />
+              <mxPoint x="930" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-80" target="EiM28c7OeE1uA6Y3Squ6-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-80" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Моё внимание привлекла одна единственная кнопка, занимающая 90% всего хедера.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="850" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-82" target="EiM28c7OeE1uA6Y3Squ6-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-82" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Это была гиперссылка на документацию по этому модулю. &quot;Очень незаметная кнопка&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="850" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-84" target="EiM28c7OeE1uA6Y3Squ6-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-84" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Бинго!&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Здесь была вся документация по этому модулю.&lt;br&gt;Никита: Как же Женя её не нашёл?&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1121" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-86" target="EiM28c7OeE1uA6Y3Squ6-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-86" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Это была гиперссылка на документацию по этому модулю. &quot;Очень незаметная кнопка&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="1160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-88" target="EiM28c7OeE1uA6Y3Squ6-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="1270" />
+              <mxPoint x="270" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-88" value="Фон: VS Code комп" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="849" width="140" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-89" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;import nule0..&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;a = nule0.Nullator()&lt;br&gt;Странное название у экземпляра конечно.. Будто ничего тут нет&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-88" vertex="1">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-90" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В документации написано, что модуль позволяет управлять скрытыми данными на устройстве.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: &quot;Что же ты, блин, скрываешь?&quot;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-88" vertex="1">
+          <mxGeometry y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-91" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;a.startloop()...&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-88" vertex="1">
+          <mxGeometry y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-92" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Запустить. Params error&lt;br&gt;Никита: &quot;Блин, а что он принимать должен?&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-88" vertex="1">
+          <mxGeometry y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-93" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Написано, что надо указать своё имя. Ну, допустим.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-88" vertex="1">
+          <mxGeometry y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-97" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;a.startloop(&quot;Nikita&quot;)&lt;br&gt;Запуск!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-88" vertex="1">
+          <mxGeometry y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-98" target="EiM28c7OeE1uA6Y3Squ6-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-98" value="Фон: Тёмный экран" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1300" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-99" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Резко всё вокруг затряслось.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: &quot;В Беларуси бывают землетрясения??&quot;&lt;br&gt;Никита: &quot;Матвей, ты как?&quot;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-98" vertex="1">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-100" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Но Матвея не было на его первичном месте. Вся комната была пуста, будто тут никто никогда и не жил.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-98" vertex="1">
+          <mxGeometry y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-101" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В глазах тускнело.. Ощущения сравнимы с первой парой по PHP в понедельник..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-98" vertex="1">
+          <mxGeometry y="160" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-102" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я отключился...&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-98" vertex="1">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-106" target="EiM28c7OeE1uA6Y3Squ6-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-106" value="Фон: универ экст." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="1300" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-107" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Очередное утро очередного дня&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-106" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-108" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Передо мной мой университет. Туда, куда я так стремился поступить в после учебы в школе.&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-106" vertex="1">
+          <mxGeometry y="60" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-109" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Сейчас я почти закончил 3 курс..&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-106" vertex="1">
+          <mxGeometry y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-110" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Большую часть учебы я не понимал, зачем я здесь и что я вообще хочу изучать дальше&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-106" vertex="1">
+          <mxGeometry y="140" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-111" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Благо сейчас я изучаю то, что более или менее пригодится мне дальше&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-106" vertex="1">
+          <mxGeometry y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EiM28c7OeE1uA6Y3Squ6-114" target="EiM28c7OeE1uA6Y3Squ6-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-114" value="Фон: универ инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1300" width="140" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-115" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Сколько бы я не называл себя интровертом, без общения я не остался&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-116" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;*Появляются Матвей, Женя, Даник*&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-117" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В лотерее друзей мне повезло, достались не самые тупые, но и не самые смешные клоуны. Вот, кстати, и они&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-118" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Даник: О, Некит!&lt;br&gt;Женя: Наконец-то явился&lt;br&gt;Матвей: Сделаешь мне эчпочмак?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-119" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Что у нас щас по парам? Снова какая-нибудь лекция с тихим часом?&lt;br&gt;Женя: Ты что, у нас питон у Янины Алексеевны!&lt;br&gt;Никита: Стоп.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="240" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-129" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Резко все мое тело задрожало. Я потерял ориентацию в пространстве. Время будто замерло вокруг меня.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-130" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Разве сейчас не суббота? Почему снова питон?&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Женя: Емомо? Пятница же&lt;br&gt;Матвей: Вчера же сидели записку писали к курсачу, забыл?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Что-то мне не хорошо.. Ладно, пошлите на лекцию.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-114" vertex="1">
+          <mxGeometry y="400" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-131" value="Фон: универ коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="1300" width="140" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-132" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В коридорах как обычно была толкучка.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-133" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В этот раз того самого преподавателя я не увидел.. Видимо сейчас его аватар решил не появляться в моей игровой сессии.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="70" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-138" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Хах, похоже я уже воспринимаю все происходящее как игру. Неужто мне всё приснилось?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-134" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;У нашего кабинета как всегда многолюдно.. Естественно, ведь автомат у Янины Алексеевны хотят получить все, даже отчислившиеся.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-135" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Все ведут беседы со всеми, все-таки после выходных у каждого есть, что обсудить.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-136" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Вот и пришла преподавательница, по её виду было понятно, что заслужить особое внимание от неё на лекции будет легко, просто отвернув свой взгляд от слайдов на экране.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="380" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-139" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Блин. А может прогулять? Простят же меня 100%. Подумаешь, одну пару пропущу..&lt;br&gt;ВЫБОР 2:&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="470" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-140" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1. Прогулять&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="540" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiM28c7OeE1uA6Y3Squ6-141" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2. Пойти на лекцию&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="EiM28c7OeE1uA6Y3Squ6-131" vertex="1">
+          <mxGeometry y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-1" target="GKvxbB9ZC0R9myFk28e3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Простите меня, Янина Алексеевна! Но судя по последним событиям, информацию с вашей лекции я уже знаю.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1800" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-2" target="GKvxbB9ZC0R9myFk28e3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-2" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Нет! Лекции у Янины пропускать нельзя. Меня, конечно, простят, но припоминать будут всю оставшуюся жизнь.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1930" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiM28c7OeE1uA6Y3Squ6-140" target="GKvxbB9ZC0R9myFk28e3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiM28c7OeE1uA6Y3Squ6-141" target="GKvxbB9ZC0R9myFk28e3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-5" target="GKvxbB9ZC0R9myFk28e3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-5" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Не знаю, было ли это решение самым правильным. Жаль, что в реальной жизни нельзя сохраняться и загружаться..&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1800" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-7" target="GKvxbB9ZC0R9myFk28e3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-7" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Но разобраться в происходящем для меня было сейчас в приоритете.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1800" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-9" target="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="1960" />
+              <mxPoint x="1380" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-9" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Прогуливать из-за того, что мне привиделось что-то странное - это уже край&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1930" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-12" target="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="1770" />
+              <mxPoint x="1810" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-12" value="Фон: универ коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1680" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-13" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;По моему лицу было видно, что на этой лекции присутствовать я не собираюсь. Это заметил и он.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-12">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Матвей: Опа. Скип лекции? В жопу, пошли отсюда!&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Теперь я хотя бы не один...&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-12">
+          <mxGeometry y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-15" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Прощайте, Янина Алексеевена!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-12">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-24" target="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-24" value="Фон: универ коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="1930" width="140" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-25" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;На лекции все мои опасения подтвердились. Весь рассказанный материал уже был мною услышан ранее.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-26" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Начиная с середины лекции, я уже мог уверенно &quot;предугадывать&quot;, какие вопросы мне прямо сейчас зададут.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-27" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Это дало мне возможность открыть ноутбук и все-таки заняться своими делами.&lt;br&gt;Никита: Тут уже явно не совпадение!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-28" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Гуглив в течении оставшейся лекции, я не нашел вообще никакой информации про &quot;Нуль 0&quot;. Вообще никакой.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-29" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;К моему опасению, в конце лекции, на слайде со статьями, именно той самой статьи не оказалось в списке.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-30" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Что за бред?&lt;br&gt;Похоже, это было слишком громко.&lt;br&gt;Препод: Я вижу, что кому-то очень интересно меня слушать!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-31" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Простите, код не компилируется..&lt;br&gt;Препод: ну-ну...&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="430" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-32" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Женя (или Даник, или Матвей): Что ты все время искал? Видишь же, что ничего нет?&lt;br&gt;Никита: Знаешь, я весь день чувствую, что видел всё это раньше..&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(Ж,Д,М): Типо как в Re:Zero?&lt;br&gt;Хах, раз ты так спокойно это говоришь, значит Сателла не полюбила.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: ну спасибо блин!&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-24">
+          <mxGeometry y="480" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-36" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Зависит говорящий от выбора 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="2470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-36" target="GKvxbB9ZC0R9myFk28e3-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1780" y="2170" as="sourcePoint" />
+            <mxPoint x="1830" y="2120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-39" target="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2070" y="1915" />
+              <mxPoint x="2070" y="1915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-39" value="Фон: комната инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1680" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-40" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Быстро прибежав в свою комнату, я не раздеваясь открыл ноутбук.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-41" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Меня настолько всё это заинтересовало, что даже забыл помыть руки! Позор мне от всего моего рода..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-42" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Гуглив в течении часа, я не нашел вообще никакой информации про &quot;Нуль 0&quot;.&lt;br&gt;Никита: Что за бред?&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-43" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Матвей: Тише дорогой. Неужто лаба настолько сложная?&lt;br&gt;Никита: Да нет.. Это прозвучит странно, но я будто живу этот день во второй раз.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="200" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-44" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Матвей: Плохо спал? Сегодня ты не угараешь ни с одного моего тиктока!&lt;br&gt;Никита: Позже все гляну.&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-55" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я рассказал Матвею всё в подробностях. От начала уже идущей лекции в прошлом, до текущего момента.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="330" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-56" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Матвей: Фигня какая-та. Ты не пробовал импортировать модуль заново?&lt;br&gt;Никита: Ламберт, ты гений! Как же я раньше до этого не додумался!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-39">
+          <mxGeometry y="390" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-57" value="Фон: комната инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1930" width="140" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-58" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;После всех пар, любимой столовой и невероятно надоевшего пути обратно - я вернулся в свою комнату.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-59" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я настолько устал, что даже забыл помыть руки! Позор мне от всего моего рода..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-61" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Может, стоит заново импортировать модуль?&lt;br&gt;Никита: Но в одиночку я заниматься этим не хочу, мне стоит позвать кого-нибудь из тех, кому явно будет это интересно..&lt;br&gt;ВЫБОР 3:&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry y="150" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-62" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1. Даник&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry y="260" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-63" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2. Женя&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-64" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;3. Матвей&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-57">
+          <mxGeometry y="370" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-66" target="GKvxbB9ZC0R9myFk28e3-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1990" y="2340" />
+              <mxPoint x="1990" y="2410" />
+              <mxPoint x="1580" y="2410" />
+              <mxPoint x="1580" y="2180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-66" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Не. Матвею интереснее будет в бесконечный раз играть в одни и те же соревновательные игры. Позову кого-нибудь другого.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="2310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-64" target="GKvxbB9ZC0R9myFk28e3-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-69" target="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2040" y="2200" />
+              <mxPoint x="2040" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-69" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Да. Именно Даник и поможет мне.&lt;br&gt;Его знаний должно хватить, чтобы разобраться с этим делом на лету.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2170" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-62" target="GKvxbB9ZC0R9myFk28e3-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-71" target="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2040" y="2270" />
+              <mxPoint x="2040" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-71" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Да. Именно Женя и поможет мне.&lt;br&gt;Его знаний должно хватить, чтобы разобраться с этим делом на лету.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-63" target="GKvxbB9ZC0R9myFk28e3-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-73" value="Фон: VS Code комп" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="1690" width="140" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-74" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Через некоторое время, мы открыли экран с проектом.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-75" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Благо я помнил, как и что нужно подключить.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;import nule0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;a = nule0.Nullator()&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-76" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;(Ж,Д,М) я доверил не менее важную задачу, разобраться с существующими внутри этого экземпляра методами.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-77" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;(Ж,Д,М): Странно, стандартных методов объекта у него нет. Удалить, добавить или как-то поменять существующий экземпляр тоже нельзя.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="190" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-78" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;(Ж,Д,М): О, есть какой-то метод. Сейчас быстренько..&lt;br&gt;a.continue()&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-83" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;(Ж,Д,М): Так. Ошибка Params Error. Просит написать индекс..&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Давай 1. Что тут тянуть.&lt;br&gt;a.continue(1)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-84" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Программа запустилась..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="380" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-85" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;И тут же, я почувствовал ту же тряску, что и была раньше.&lt;br&gt;Никита: Ну вот опять! Такое было перед &quot;перезапуском&quot;!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-86" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Но (Ж,Д,М) исчез.. Будто его тут никогда и не было.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Кажись, я засыпаю..&lt;br&gt;*темный экран на секунду*&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-73">
+          <mxGeometry y="470" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-87" target="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-87" value="Фон: универ экст." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2680" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-88" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Очередное утро очередного дня&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-87">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-89" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Передо мной мой университет. Туда, куда я так стремился поступить в после учебы в школе.&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-87">
+          <mxGeometry y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-90" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Сейчас я почти закончил 3 курс..&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-87">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-91" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Нет блин! Не закончил.&lt;br&gt;Никита: Мне уже в третий раз нужно идти на одну и ту же лекцию! Это пытка!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-87">
+          <mxGeometry y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-86" target="GKvxbB9ZC0R9myFk28e3-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2170" y="2300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2170" y="2630" />
+              <mxPoint x="400" y="2630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-94" target="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-94" value="Фон: универ инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2680" width="150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-95" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Сколько бы я не называл себя интровертом, без общения я не остался&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-96" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;*Появляются Ж,Д,М, но кроме того, кто писал с нами код. Имя исчезнувшего именуется далее как И. Оставшиеся как А и Б.*&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="90" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-97" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: А где И?&lt;br&gt;А: Ты про кого?&lt;br&gt;Б: Парень твой? Потом познакомишь?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-98" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я застыл.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Этого не может быть!&lt;br&gt;Никита: У нас же сейчас пара у Янины Алексеевны?&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="220" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-100" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;А: Невероятная наблюдательность. Оксфорд закончил?&lt;br&gt;Никита: Вообще не смешно. Я скипаю.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="290" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-101" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Тут и выборов не нужно, чтобы понять, что на эту лекцию я в очередной раз не пойду.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="360" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-106" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Важнее разобраться, что тут вообще такое происходит?&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-94">
+          <mxGeometry y="410" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-103" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Зависит от ВЫБОРА 2 и 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-96" target="GKvxbB9ZC0R9myFk28e3-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="2830" as="sourcePoint" />
+            <mxPoint x="800" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-107" target="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-107" value="Фон: коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2680" width="140" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-108" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я быстро побежал по коридору, не замечая никого, кроме того самого преподавателя, который всегда и везде появляется.&lt;br&gt;Никита: Ну хоть кто-то стабилен!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="30" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-109" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Бах!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-110" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я врезался в кого-то или во что-то..&amp;nbsp;&lt;br&gt;Никита: Ой блин! Зря я не посмотрел по сторонам.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-111" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Никита, что за дела? Мало того, что ты во так неаккуратно бежишь, так ещё и моя лекция совсем в другой стороне!&lt;br&gt;*просто черная фигура*&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-112" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Мне не повезло нарваться именно на мою лекторшу, пару которой я решил прямо сейчас прогулять.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="300" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-113" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Очень странно, что не мог разглядеть её лица. Свет падал так, что её фигура была полностью черной. Лишь силуэт выдавал в ней любителя питона.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-114" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Мне сложно объяснить, почему я прогуливаю..&lt;br&gt;Никита: Но может вам известно что-нибудь о модуле &quot;Нуль 0&quot; в Python?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-116" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Даже не видя её выражение лица, можно было понять, что этот вопрос привел её в ступор.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="510" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-117" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Вот опять! Почему это ещё не прекратилось!&lt;br&gt;Янина: Сколько раз ты уже перезагружался? СКОЛЬКО?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-118" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Это мой уже третий цикл. Я ничего не понимаю!&lt;br&gt;Янина: Только третий? Мне повезло. Пошли быстрее за мной!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="630" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-119" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Мы быстро пошли по коридору в сторону кафедры. Янина что-то очень быстро печатала на телефоне.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-107">
+          <mxGeometry y="700" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-120" target="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-120" value="Фон: кафедра инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="2680" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-121" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;На кафедре был выключен свет. Непроглядная тьма.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-122" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;*Яркая вспышка*&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="70" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-123" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Ослепительный свет влетел в мои глаза. Через пару секунд я наконец смог что-то увидеть..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-124" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Вашу ж мать.. Здравствуйте&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-125" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Передо мной стояли все преподаватели кафедры. Даже сам заведующий Романенко был здесь.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-126" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Что-то не так?&lt;br&gt;Янина: Да. То, что петля все ещё жива. И вина за это лежит на тебе.&lt;br&gt;Янина: Хотя, скорее не на тебе, а на тебе из другого цикла, который и запустил этот бесконечный круговорот лекций и пар!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="260" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-127" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я ничего не понимал. Прошлый я? Другие циклы?&lt;br&gt;Никита: Объясните подробнее!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="390" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-128" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Зачем? На твое место придёшь другой ты и снова нужно будет всё это объяснять.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="440" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-129" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Куда пропал мой друг И? Я вместе с ним попытался разобраться в &quot;Нуль 0&quot; и после этого он исчез.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-130" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Это побочный эффект. Его уже не вернуть.&lt;br&gt;Янина: Каждый, кто вмешивается в цикл - бесследно исчезает.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Но у нас есть проверенное решение, как разрулить ситуацию.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="560" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-131" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Решение? И сколько раз вы его уже принимали?&lt;br&gt;Янина: Я не знаю. Мы не видим циклы, но знаем о них. И к сожалению, моей версии не повезло понять, что она в цикле.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="650" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-133" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Почему же? Это ваше &quot;решение&quot; убьет вас?&lt;br&gt;Янина: Не совсем. Просто мы перестанем существовать в этой реальности. Но наши другие воплощения будут и дальше страдать в других циклах..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-120">
+          <mxGeometry y="750" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-134" value="Фон: кафедра 2 инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2680" width="140" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-135" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Единственное, что мы можем сделать - это перезапустить тебя.&lt;br&gt;Никита: Меня? Как это?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-136" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Время вернется как до цикла. Ты потеряешь свою память, но возможно, всё вернется в норму.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-137" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: По крайней мере, до следующего такого Никиты..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-138" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Альтернатив нет? Вообще никаких?&lt;br&gt;Никита: Я просто обречен все забыть и жить дальше, даже не зная, в петле я или нет?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="200" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-139" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Увы. Это так. Мы уже неизвестное количество времени так живем. Но у нас нет выбора.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-140" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Выбор есть всегда!&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;ВЫБОР 4:&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="330" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-149" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;1. Забыть всё и перезапустить цикл&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="380" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-150" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;2. Найти другое решение&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-134">
+          <mxGeometry y="430" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-160" target="GKvxbB9ZC0R9myFk28e3-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-160" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Похоже, выбора у меня все таки нет. А ведь как было бы удобно загрузиться и все исправить, но реальность жестока..&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="3055" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-149" target="GKvxbB9ZC0R9myFk28e3-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-162" target="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-162" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Ты молодец. Это единственное возможное решение, к сожалению..&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Надень эти очки.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="3055" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-164" value="Фон: тёмный экран" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1825" y="2683" width="140" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-165" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В руках у меня оказались очки виртуальной реальности, которые мне необходимо было подключить к своему ноутбуку.&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-166" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Просто посмотри в экран. Ты видишь код?&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="90" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-167" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Перед моими глазами появилось безобразное количество кода. Тысячи строк и переменных пролетали перед моими глазами.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-168" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Найди этот модуль. Его название летает среди всего этого беспорядка.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-169" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Через секунду мой взгляд уже был на нём. Он притягивает. Особенно, когда знаешь, к каким ужасным последствиям он нас всех привел.&lt;br&gt;Никита: Нажимаю на него.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="250" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-170" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Янина: Появились функции. Выбери ту, которая называется restart.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-171" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Но мой взор привлекла ещё одна функция, название которой говорит само за себя.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="400" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-172" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: disconnect.&lt;br&gt;Янина: Нет. Мы не знаем, что она делает. Ни в коем случае её не выбирай!&lt;br&gt;ВЫБОР 5:&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="450" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-174" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1. Restart&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-175" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2. Disconnect&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-164">
+          <mxGeometry y="590" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-176" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;*Выкидывает в главное меню без титров. Сохранение удаляется*&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="3190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-174" target="GKvxbB9ZC0R9myFk28e3-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-178" target="GKvxbB9ZC0R9myFk28e3-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-178" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Титры. После титров диалог.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="3300" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-175" target="GKvxbB9ZC0R9myFk28e3-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-180" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Никита: Пустота. Вечная пустота.&lt;br&gt;Никита: Я уже не знаю, сколько времени нахожусь в этой тьме.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Никита: Здесь ничего нет!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Может, это загробный мир?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Я надеюсь, что я смог спасти всех..&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Надеюсь..&lt;br&gt;&lt;br&gt;Спас...&lt;br&gt;&lt;br&gt;*главное меню*&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="3300" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-182" target="GKvxbB9ZC0R9myFk28e3-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-182" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Нет. Я найду другой способ спасти себя, вас и И.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="3150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-150" target="GKvxbB9ZC0R9myFk28e3-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-184" target="GKvxbB9ZC0R9myFk28e3-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-184" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Быстро достав свой ноутбук, я открыл редактор кода и написал заветные строки.&lt;br&gt;import nule0&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;a = nule0,Nullator()&lt;br&gt;a.continue(1)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="3150" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-186" target="GKvxbB9ZC0R9myFk28e3-188">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1655" y="3590" />
+              <mxPoint x="430" y="3590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-186" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Вокруг меня все пропали. Земля затряслась.&amp;nbsp;&lt;br&gt;Я уже был готов заснуть.. и проснутся вновь!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="3250" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-188" value="Фон: универ экст." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3630" width="140" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-189" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Очередное утро очередного дня&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-188">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-192" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Очередное утро.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-188">
+          <mxGeometry y="60" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-194" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Утро.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-188">
+          <mxGeometry y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-195" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я уже не знаю, в каком из своих циклов я нахожусь. Сбился со счёта.&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-188">
+          <mxGeometry y="140" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-196" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****: Сотня тысяч? Двести? Миллион?&lt;br&gt;****: Никакого прогресса! Никакого!&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Сколько бы раз я не пытался, сколько бы раз не перезапускался - ничего!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-188">
+          <mxGeometry y="190" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-197" target="GKvxbB9ZC0R9myFk28e3-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-197" value="Фон: универ инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="3630" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-198" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я уже не интроверт. Я фиг пойми кто. У меня не осталось друзей.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-197">
+          <mxGeometry y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-199" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Женю, Даника и Матвея тысячи попыток назад затянуло в петлю.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Никто из них мне не помог.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-197">
+          <mxGeometry y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-200" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;К Янине я больше не подходил. Эту её последнюю лекцию я не забуду никогда.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Никогда больше.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-197">
+          <mxGeometry y="130" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-220" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px; text-align: center;&quot;&gt;: Я всегда был самостоятельным, ведь никто мне не поможет лучше, чем я сам.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-197">
+          <mxGeometry y="200" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-195" target="GKvxbB9ZC0R9myFk28e3-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-208" target="GKvxbB9ZC0R9myFk28e3-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-208" value="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2943" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-212" target="GKvxbB9ZC0R9myFk28e3-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-212" value="Фон: вокзал экст." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="3630" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-213" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я решил в очередной раз прогуляться по городу. Он пустовал.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-212">
+          <mxGeometry y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-214" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Не знаю, эти безлюдные улицы результат моих действий или просто так совпало.. Это не важно.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-212">
+          <mxGeometry y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-215" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я сел на лавочку около вывески с вкусными хотдогами.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Ммм, какой же приятный запах!&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-212">
+          <mxGeometry y="130" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-216" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я открыл свой ноутбук. Единственный, кто всегда со мной и кто может ответить на почти все мои вопросы.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-212">
+          <mxGeometry y="200" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-222" target="GKvxbB9ZC0R9myFk28e3-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-222" value="Фон: экран ноутбука" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="3630" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-223" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Модуль &quot;Нуль 0&quot; я импортировал уже бесконечное число раз. Каждая его доступная функция мною была изучена, проверена и активирована.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-222">
+          <mxGeometry y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-228" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Что же сделать, что же сделать... Что же сделать... стоп&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-222">
+          <mxGeometry y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-229" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я понял, что ни разу не делал этого..&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Ни разу не пытался удалить модуль&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-222">
+          <mxGeometry y="160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-230" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Как же так.. Да не может этого быть, чтобы все было так просто!&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-222">
+          <mxGeometry y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-232" target="GKvxbB9ZC0R9myFk28e3-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-232" value="Фон: экран ноутбука 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="3630" width="150" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-233" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Слишком рискованно. Мало ли я потом не смогу изучить его? Мало ли он удалится со всех петель, как это было с моими друзьями.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-232">
+          <mxGeometry y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-234" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Нужно сохранить его где-нибудь.. Где же..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-232">
+          <mxGeometry y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-235" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Выход оказался один.&amp;nbsp;&lt;br&gt;Я написал статью о том, как работает данный модуль.&lt;br&gt;Так как свое имя я уже давно забыл, мне пришлось выбрать псевдоним.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-232">
+          <mxGeometry y="160" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-236" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Хроми Пайтон.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-232">
+          <mxGeometry y="250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-237" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Первое, что мне пришло в голову. Идеальное сочетание.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-232">
+          <mxGeometry y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-240" value="Фон: VS Code" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="3630" width="150" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-241" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Я запустил уже вылизанный до дыр редактор кода.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;import nule0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;a = nule0.Nullator()&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-240">
+          <mxGeometry y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-242" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: a.startloop(&quot;Хроми Пайтон&quot;)&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: a.startloop(&quot;nule0&quot;)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-240">
+          <mxGeometry y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-243" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Земля затряслась.&lt;br&gt;За все циклы я научился не засыпать в первые минут после тряски.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-240">
+          <mxGeometry y="160" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-244" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Пока все вокруг затухало, я быстро открыл папку с модулем.&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;****&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;: Пора!&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;ВЫБОР 5 (просто кнопка):&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-240">
+          <mxGeometry y="250" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-245" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1. Удалить модуль&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-240">
+          <mxGeometry y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-248" target="GKvxbB9ZC0R9myFk28e3-256">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="4040" />
+              <mxPoint x="435" y="4040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-248" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Чёрный экран 10 секунд.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="3950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-245" target="GKvxbB9ZC0R9myFk28e3-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-256" target="GKvxbB9ZC0R9myFk28e3-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-256" value="Фон: универ экст." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4100" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-257" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Очередное утро очередного дня&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-256">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-258" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Передо мной мой университет. Туда, куда я так стремился поступить в после учебы в школе.&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-256">
+          <mxGeometry y="60" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-259" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Сейчас я почти закончил 3 курс..&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-256">
+          <mxGeometry y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-260" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Большую часть учебы я не понимал, зачем я здесь и что я вообще хочу изучать дальше&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-256">
+          <mxGeometry y="150" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-261" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Благо сейчас я изучаю то, что более или менее пригодится мне дальше&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-256">
+          <mxGeometry y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-262" target="GKvxbB9ZC0R9myFk28e3-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-262" value="Фон: универ инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="4100" width="150" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-263" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Сколько бы я не называл себя интровертом, без общения я не остался&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-262">
+          <mxGeometry y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-264" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;*Появляются Матвей, Женя, Даник*&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-262">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-265" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В лотерее друзей мне повезло, достались не самые тупые, но и не самые смешные клоуны. Вот, кстати, и они&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-262">
+          <mxGeometry y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-266" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Даник: О, Некит!&lt;br&gt;Женя: Наконец-то явился&lt;br&gt;Матвей: Сделаешь мне эчпочмак?&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-262">
+          <mxGeometry y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-267" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Никита: Что у нас щас по парам? Снова какая-нибудь лекция с тихим часом?&lt;br&gt;Женя: Ты что, у нас питон у Янины Алексеевны!&lt;br&gt;Никита: Аааа, за три километра снова идти..&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-262">
+          <mxGeometry y="240" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-268" value="Фон: универ коридор инт." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="4091" width="150" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-269" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;В коридорах как обычно была толкучка.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-268">
+          <mxGeometry y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-270" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Среди всего потока людей, мне каждый раз попадается один и тот же преподаватель, лекции которого у нас закончились ещё пару семестров назад. Сбой матрицы&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-268">
+          <mxGeometry y="70" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-271" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;У нашего кабинета как всегда многолюдно.. Естественно, ведь автомат у Янины Алексеевны хотят получить все, даже отчислившиеся.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-268">
+          <mxGeometry y="170" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-272" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Все ведут беседы со всеми, все-таки после выходных у каждого есть, что обсудить.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-268">
+          <mxGeometry y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-273" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Вот и пришла преподавательница.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GKvxbB9ZC0R9myFk28e3-268">
+          <mxGeometry y="310" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-277" target="GKvxbB9ZC0R9myFk28e3-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-277" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Неожиданно она подошла ко мне.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="4396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-273" target="GKvxbB9ZC0R9myFk28e3-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvxbB9ZC0R9myFk28e3-279" target="GKvxbB9ZC0R9myFk28e3-281">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-279" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Янина: Все закончилось.&lt;br&gt;Никита: Что закончилось?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Янина: Всё.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="4396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKvxbB9ZC0R9myFk28e3-281" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Титры&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="4396" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
