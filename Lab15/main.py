@@ -66,7 +66,7 @@ def handle_message(update: Update, context: CallbackContext):
         update.message.reply_text('Используйте кнопки меню.')
 
 def main():
-    token = '8178277754:AAFnttQw8lbdTbH-dgOnn-axDcV2hzhpXu8'
+    token = 'ВСТАВЬТЕ СВОЙ ТОКЕН'
     
     updater = Updater(token)
     dispatcher = updater.dispatcher
